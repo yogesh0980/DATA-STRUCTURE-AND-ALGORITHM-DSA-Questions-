@@ -1,5 +1,4 @@
-# 🚀 [Project Title]
-DSA (DATA STRUCTURE AND ALGORITHM)
+# 🚀DSA (DATA STRUCTURE AND ALGORITHM)
 Welcome to my Data Structures & Algorithms practice repository! 🚀
 This repo is a curated collection of solutions to DSA problems from platforms like LeetCode,
 > To understand data structure efficiently with Questions and topics that are important for interviews.
@@ -29,13 +28,13 @@ Make sure you have the following installed:
    ```bash
    git clone [https://github.com/your-username/project-name.git](https://github.com/your-username/project-name.git)
 
-   Contributing
-Contributions are welcome! 🎉 If you have a cleaner or more optimal solution:
-🍴 Fork the repository
-🌿 Create a branch: `git checkout -b feature/problem-name`
-💾 Commit your changes: `git commit -m "Add: Problem Name solution"`
-📤 Push: `git push origin feature/problem-name`
-🔃 Open a Pull Request
+Contributing
+1. Contributions are welcome! 🎉 If you have a cleaner or more optimal solution:
+2. 🍴 Fork the repository
+3. 🌿 Create a branch: `git checkout -b feature/problem-name`
+4. 💾 Commit your changes: `git commit -m "Add: Problem Name solution"`
+5. 📤 Push: `git push origin feature/problem-name`
+6. 🔃 Open a Pull Request
 
 
 
